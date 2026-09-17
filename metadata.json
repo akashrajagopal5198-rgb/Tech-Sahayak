@@ -1,0 +1,10 @@
+{
+  "name": "Tech Sahayak",
+  "description": "Elderly-first AI technology helper guiding seniors step-by-step through smartphone tasks with voice assistance and scam safety education in English and Tamil.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
